@@ -1,0 +1,10 @@
+# servertest.config
+
+# Server IP for testing?
+IP=""
+
+# Ports to test eg. "80 443 .."
+PORTS=""
+
+# Email Address to send error-message
+MAIL=""

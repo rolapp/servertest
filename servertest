@@ -1,0 +1,5 @@
+/var/log/servertest/*/*log { 
+	daily
+	rotate 1
+	notifempty
+}
